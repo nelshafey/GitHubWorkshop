@@ -4,8 +4,6 @@
 
 ## Versioning Vocabulary
 
-## Vocabulary
-
 **Repo or repository** (n.) 
 : A discrete project on GitHub that contains a set of files, a change history, and a set of contributors. (E.g. [this one](https://github.com/digbmc/dssf-syll))
 

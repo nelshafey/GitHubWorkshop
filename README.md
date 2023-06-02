@@ -2,7 +2,13 @@
 
 [Link to presentation](https://alicemcgrath.digital.brynmawr.edu/pres/git-hub.html)
 
-[Something](something.md)
+## Installation instructions
+
+Before we get started, please:
+
+1. Sign up for a GitHub account at [github.com](https://github.com/)
+2. Install Visual Studio Code: [code.visualstudio.com](https://code.visualstudio.com/)
+3. Install Git, following these instructions: [git-scm.com/download](https://git-scm.com/download) 
 
 ## Versioning Vocabulary
 

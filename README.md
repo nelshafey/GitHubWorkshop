@@ -35,6 +35,7 @@ Before we get started, please:
 
 ## Markdown Syntax
 
+# Added text
 ```{md}
 
 # First level heading 
